@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Stivepeim's Blog
-subtitle: 'welcome'
-description: 'stivepeim'
-keywords: 'stivepeim'
+title: 选择大于努力-Stivepeim
+subtitle: '我不去想是否能够成功 既然选择了远方 便只顾得风雨兼程'
+description: 'stivepeim blog'
+keywords: 'stivepeim stivepeim blog'
 author: Stivepeim
 language: zh-CN
 timezone: 'Asia/Shanghai'
@@ -94,8 +94,7 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 # theme: landscape
-theme: false
-# theme: book
+theme: easyBlog
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
